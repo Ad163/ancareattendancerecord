@@ -1,0 +1,501 @@
+﻿Name,patient_card_number ,Age,Parity,New,Revisit,LMP,Age_of_Pregnancy,weight,Height,Blood_Pressure,visit_count,hiv_testing ,fgm,family_planning,nutrition ,exclusive_breastfeeding ,breastfeeding ,Syphilis_testing,Hepatitis B,Hepatitis C,HB_PCV ,gestational_sugar,LLIN,IPT1,IPT2,IPT3,Hematinics,TD,Associated Problems,Treated,Admitted
+Ada Ogenyi,3215,41,N,No,Yes,2023-06-08,25,82.14,1.443249491,92,25,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Hypertension (High Blood Pressure),Y,N
+Amaka Amaife,4950,16,N,Yes,No,2023-07-03,21,86.07,1.599814437,132,21,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Chiamaka Nwoke,7414,39,N,Yes,No,2023-10-19,6,81.2,1.502756296,123,6,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,N,N,Y,Y,td1,Anemia,Y,N
+Chioma Akoma,9178,49,N,Yes,No,2023-10-12,7,86.82,1.779699124,99,7,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,N,N,Y,Y,td1,Gestational Diabetes,Y,N
+Chinelo Okoye,4076,46,N,Yes,No,2023-06-08,25,80.69,1.117647792,111,25,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Preterm Labor,Y,N
+Dorcas Dike,9514,29,N,No,Yes,2023-10-15,6,80.25,1.117347839,120,6,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,N,Y,Y,Y,td1,Preeclampsia,Y,N
+Dupe Okoro,4663,43,N,Yes,No,2023-10-13,6,87.28,1.802531367,98,6,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,Y,N,Y,Y,td1,Placental Abruption,Y,N
+Ebele Ossai,1613,51,N,No,Yes,2023-07-23,18,78.06,1.575205707,137,18,Y,N,N,Y,Y,Y,Negative,Negative,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Ezinne Oguejiofor,1558,40,N,Yes,No,2023-09-14,11,72.06,1.876675354,111,11,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Faith Anumba,9759,50,N,Yes,No,2023-07-18,19,82.94,1.407307644,124,19,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Postpartum Hemorrhage,Y,N
+Favour Aneke,8389,34,N,No,Yes,2023-05-01,30,79.47,1.981073474,130,30,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,Y,N,Y,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,N
+Mercy Opara,3202,28,N,Yes,No,2023-04-02,34,71.35,1.534144379,121,34,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,N,Y,Y,Y,td1td2,Ectopic Pregnancy,Y,N
+Nkechi Amobi,9262,16,N,No,Yes,2023-10-08,7,76.31,1.394373792,133,7,Y,N,N,Y,Y,Y,Positive,Refer,Negative,11,N,Y,Y,Y,N,Y,td1,Gestational Diabetes Mellitus (GDM),Y,N
+Nkeiru Okorie,8152,27,N,Yes,No,2023-04-03,34,79.53,1.719845976,124,34,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,Polyhydramnios,Y,N
+Nneka Ezeani,5610,31,N,No,Yes,2023-03-12,37,86.2,1.227812137,109,37,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,N,Y,Y,td1td2,Oligohydramnios,Y,Y
+Obianuju Okeke,5401,43,N,No,Yes,2023-06-27,22,74.08,1.907586591,92,22,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Thrombocytopenia,Y,N
+Precious Nnaji,5846,29,N,Yes,No,2023-04-06,34,78.22,1.954217916,107,34,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,Y,Y,Y,td1td2,Urinary Tract Infection (UTI),Y,N
+Rachael Agbasi,3456,29,N,Yes,No,2023-03-14,37,70.81,1.422483377,99,37,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,N,Y,Y,Y,td1td2,Hyperemesis Gravidarum,Y,Y
+Rebecca Uche,1239,50,N,Yes,No,2023-09-01,12,85.19,1.254705267,128,12,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Gestational Hypothyroidism,Y,N
+Sandra Akpan,4848,22,N,Yes,No,2023-05-28,26,85.47,1.920295064,99,26,Y,N,N,Y,Y,Y,Negative,Positive,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Hypertension,Y,N
+Beauty Uche,1029,15,N,No,Yes,2023-03-17,36,81.44,1.762350165,93,36,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,Intrahepatic Cholestasis of Pregnancy (ICP),Y,Y
+Elizabeth Okafor,6221,24,N,No,Yes,2023-05-26,26,80.72,1.482596831,126,26,Y,N,N,Y,Y,Y,Treated,Refer,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Recurrent Miscarriage,Y,N
+Esther Eze,2108,38,N,No,Yes,2023-06-27,22,85.64,1.124331462,138,22,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Cervical Insufficiency,Y,N
+Grace Ezeifeka,4601,21,N,No,Yes,2023-08-08,16,74.34,1.278856126,135,16,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Fetal Macrosomia,Y,N
+Felicia Okeke,2951,33,N,No,Yes,2023-09-18,10,82.14,1.286322161,127,10,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Neonatal Jaundice,Y,N
+Happiness Chinwuba,7806,50,N,Yes,No,2023-09-20,10,75.73,1.139611132,119,10,Y,N,N,Y,Y,Y,Negative,Positive,Negative,11,N,Y,Y,Y,N,Y,td1td2,Fetal Distress,Y,N
+Linda Okereke,5817,20,N,Yes,No,2023-09-22,9,70.8,1.745851874,131,9,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,N,Y,Y,td1,Gestational Trophoblastic Neoplasia,Y,N
+Love Ugboaja,6186,18,N,No,Yes,2023-04-24,31,90.94,1.928512365,99,31,Y,N,N,Y,Y,Y,Positive,Negative,Negative,11,N,Y,Y,N,Y,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Mary Amadi,8852,19,N,Yes,No,2023-10-15,6,73.68,1.99608059,115,6,Y,N,N,Y,Y,Y,Positive,Positive,Negative,11,N,Y,N,Y,Y,Y,td1,Retained Placenta,Y,N
+Matilda Onoja,2230,46,N,Yes,No,2023-06-23,22,85.21,1.313103493,97,22,Y,N,N,Y,Y,Y,Positive,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Fetal Growth Restriction,Y,N
+Ngozi Ijeh,9515,47,N,Yes,No,2023-07-06,21,76.8,1.610690969,120,21,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Uterine Rupture,Y,N
+Ogechukwu Ifeanyi,2229,16,N,No,Yes,2023-09-01,12,87.42,1.405089184,113,12,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Postpartum Depression,Y,N
+Patience Nwosu,4156,49,N,Yes,No,2023-10-02,8,76.13,1.714247638,120,8,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,Y,N,Y,td1,Chorioamnionitis,Y,N
+Peace Nnamani,7418,39,N,Yes,No,2023-09-04,12,70.88,1.292160891,99,12,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Comfort Ude,7227,18,N,No,Yes,2023-10-12,7,90.55,1.1542093,117,7,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1,Umbilical Cord Abnormalities,Y,N
+Precious Okonkwo,9149,24,N,Yes,No,2023-09-26,9,74.35,1.522809478,95,9,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,N,Y,Y,Y,td1,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Uzo Okenwa,9367,36,N,No,Yes,2023-08-17,15,88.37,1.494364007,133,15,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,N
+Amarachi Ezeoma,5570,25,N,Yes,No,2023-04-18,32,90.49,1.920615615,125,32,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,Y,Y,N,Y,td1td2,Chronic Hypertension in Pregnancy,Y,N
+Blessing Nnamani,8349,14,N,Yes,No,2023-09-16,10,87.01,1.865358123,120,10,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,N,N,Y,Y,td1td2,"Cardiac Conditions in Pregnancy (e.g., Congenital Heart Disease)",Y,N
+Catherine Onu,7904,19,N,No,Yes,2023-09-21,10,83.62,1.527506577,121,10,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,Y,Y,N,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Deborah Onuigbo,2313,18,N,No,Yes,2023-03-05,38,82.74,1.302914856,118,38,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,N,Y,Y,Y,td1td2,Eclampsia,Y,Y
+Ebuka Oloko,3284,27,N,Yes,No,2023-05-01,30,77.45,1.408166842,95,30,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Ebelechukwu Onwuchekwa,5117,49,N,Yes,No,2023-06-07,25,89.85,1.570832028,127,25,Y,N,N,Y,Y,Y,Treated,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Ebubechukwu Ozoemena,4920,24,N,Yes,No,2023-08-15,15,84.83,1.052028461,114,15,Y,N,N,Y,Y,Y,Treated,Positive,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Jennifer Nwankwo,8207,45,N,No,Yes,2023-10-19,6,70.16,1.676598577,114,6,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,Y,N,Y,td1,Amniotic Fluid Embolism,Y,N
+Joyce Ezepue,5787,23,N,Yes,No,2023-03-27,35,75.03,1.62313784,90,35,Y,N,N,Y,Y,Y,Positive,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Kate Ogbu,1939,19,N,No,Yes,2023-03-25,35,89.89,1.094579576,95,35,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,Y,Y,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Peace Okonkwo,7224,14,N,Yes,No,2023-07-15,19,71.35,1.639480695,140,19,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Gloria Mbah,3149,46,N,No,Yes,2023-04-25,31,73.87,1.745860246,134,31,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,N,Y,Y,Y,td1td2,Prolonged Labor,Y,N
+Uzoamaka Akabogu,6377,51,N,Yes,No,2023-04-15,32,88.34,1.080462968,134,32,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,N,Y,Y,td1td2,Obstetric Fistula,Y,N
+Ogechi Duru,4193,36,N,Yes,No,2023-10-03,8,74.57,1.343564188,116,8,Y,N,N,Y,Y,Y,Positive,Positive,Refer,11,N,Y,Y,N,Y,Y,td1,Gestational Diabetes Mellitus (GDM),Y,N
+Maureen Agwu,6856,32,N,No,Yes,2023-10-02,8,83.57,1.47948216,136,8,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,N,Y,Y,td1,Hyperemesis Gravidarum,Y,N
+Pauline Okoye,6468,41,N,Yes,No,2023-06-26,22,87.22,1.507395692,97,22,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Hypertension,Y,N
+Ogechi Eze,1416,20,N,Yes,No,2023-07-07,20,90.71,1.705561004,111,20,Y,N,N,Y,Y,Y,Negative,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Cervical Insufficiency,Y,N
+Esther Agu,8973,22,N,No,Yes,2023-09-12,11,75.35,1.924913785,136,11,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Gestational Diabetes,Y,N
+Nneoma Umeh,3052,31,N,No,Yes,2023-07-17,19,88.73,1.442914199,114,19,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Ifeoma Ezeugo,3073,16,N,Yes,No,2023-10-16,6,86.97,1.306975587,123,6,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,N,Y,Y,td1,Gestational Trophoblastic Disease (GTD),Y,N
+Chinwendu Okere,7503,37,N,Yes,No,2023-10-18,6,75.12,1.674847294,137,6,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,N,Y,Y,td1,Thrombocytopenia,Y,N
+Victoria Eze,1158,42,N,Yes,No,2023-06-17,23,71.55,1.417744692,92,23,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Ujunwa Nwosu,7436,15,N,Yes,No,2023-08-09,16,85.04,1.295769076,136,16,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Hypothyroidism,Y,N
+Ngozi Obi,1072,19,N,No,Yes,2023-10-06,7,87.74,1.331752672,113,7,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,N,N,Y,Y,td1,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Chiamaka Onu,7831,50,N,No,Yes,2023-06-08,25,83.36,1.565311002,109,25,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Preeclampsia,Y,N
+Ijeoma Okafor,3719,27,N,Yes,No,2023-03-24,35,74.28,1.675334488,126,35,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,Y,N,Y,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,N
+Chinwe Obi,7782,43,N,No,Yes,2023-06-14,24,78.34,1.067268116,126,24,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Neonatal Jaundice,Y,N
+Onyekachukwu Egbujor,4289,16,N,Yes,No,2023-06-16,23,89.54,1.830218446,133,23,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Priscilla Chukwu,9233,21,N,No,Yes,2023-09-02,12,80.5,1.2667256,116,12,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,Y,N,Y,Y,td1td2,Fetal Growth Restriction,Y,N
+Juliet Offia,8740,28,N,Yes,No,2023-10-22,5,77.99,1.279308852,127,5,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,N,Y,Y,td1,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Ezinne Ani,1919,33,N,No,Yes,2023-05-19,27,72.77,1.193763522,131,27,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Placental Abruption,Y,N
+Chioma Nwosu,5683,27,N,No,Yes,2023-03-04,38,78.17,1.705408836,106,38,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,N,N,Y,Y,td1td2,Obstetric Fistula,Y,Y
+Ada Agwu,7505,31,N,Yes,No,2023-10-22,5,72.13,1.774659377,117,5,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,N,N,Y,Y,td1,Drug or Substance Abuse,Y,N
+Nneka Olisaeloka,5223,46,N,No,Yes,2023-04-25,31,84.87,1.381307569,100,31,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Chorioamnionitis,Y,N
+Stella Eze,2461,28,N,Yes,No,2023-07-14,19,85.6,1.401092229,124,19,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Postpartum Hemorrhage,Y,N
+Uchechi Eke,2296,44,N,Yes,No,2023-05-20,27,78.56,1.079590696,95,27,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Recurrent Miscarriage,Y,N
+Amarachi Okoli,1280,31,N,Yes,No,2023-08-23,14,73.94,1.479138313,129,14,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Jessica Nwosu,5915,44,N,No,Yes,2023-09-21,10,74.74,1.005405461,134,10,Y,N,N,Y,Y,Y,Positive,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Amara Duru,2046,23,N,No,Yes,2023-05-04,30,77.79,1.974077412,127,30,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,Y,N,Y,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Ifeoma Okafor,8787,39,N,Yes,No,2023-09-27,9,75,1.911082244,124,9,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,Y,N,Y,Y,td1,Eclampsia,Y,N
+Ngozi Nkemakolam,8447,15,N,No,Yes,2023-05-13,28,82.75,1.508092976,124,28,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,N,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Chinwe Ilo,9258,16,N,No,Yes,2023-04-19,32,77.9,1.96329708,126,32,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,Y,N,Y,td1td2,Urinary Tract Infection (UTI),Y,N
+Uzoamaka Madueke,3632,21,N,No,Yes,2023-08-28,13,89.18,1.824580669,137,13,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,Y,Y,N,Y,td1td2,"Cardiac Conditions in Pregnancy (e.g., Congenital Heart Disease)",Y,N
+Onyinye Duru,6603,26,N,Yes,No,2023-06-15,24,83.63,1.50996013,97,24,Y,N,N,Y,Y,Y,Negative,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Fetal Macrosomia,Y,N
+Peace Nwankwo,9881,45,N,Yes,No,2023-06-15,24,78.89,1.830551842,107,24,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Chronic Hypertension in Pregnancy,Y,N
+Joy Eze,2343,40,N,No,Yes,2023-09-05,12,89.97,1.363658121,122,12,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Postpartum Depression,Y,N
+Amarachi Madueke,4501,49,N,Yes,No,2023-10-12,7,77.32,1.768068765,140,7,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1,Fetal Anomalies or Birth Defects,Y,N
+Juliet Ukachi,3221,20,N,No,Yes,2023-07-06,21,85.88,1.037838498,106,21,Y,N,N,Y,Y,Y,Treated,Positive,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Nkiru Okafor,4436,27,N,Yes,No,2023-10-18,6,81.46,1.231339268,108,6,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,N,Y,Y,Y,td1,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Ogechukwu Udeh,8802,21,N,Yes,No,2023-04-14,32,73.26,1.489012591,140,32,Y,N,N,Y,Y,Y,Positive,Negative,Negative,11,N,Y,Y,N,Y,Y,td1td2,Oligohydramnios,Y,N
+Pamela Okoronkwo,7853,20,N,No,Yes,2023-04-02,34,89.79,1.810783288,118,34,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,Y,Y,N,Y,td1td2,Retained Placenta,Y,N
+Blessing Duru,9668,47,N,Yes,No,2023-10-18,6,84.25,1.347460785,99,6,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,Y,Y,N,Y,td1,Drug or Substance Abuse,Y,N
+Chioma Okafor,1421,47,N,No,Yes,2023-04-11,33,83.25,1.989345446,95,33,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,Y,Y,Y,td1td2,Amniotic Fluid Embolism,Y,N
+Victoria Okoye,2219,50,N,Yes,No,2023-07-19,19,78.92,1.518176903,139,19,Y,N,N,Y,Y,Y,Positive,Negative,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Prolonged Labor,Y,N
+Chioma Ani,1096,30,N,No,Yes,2023-05-06,29,77.68,1.840231159,92,29,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Juliet Anyasi,7239,38,N,Yes,No,2023-10-18,6,74.86,1.709472562,98,6,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,N,Y,Y,Y,td1,Gestational Hypertension,Y,N
+Adaobi Okereke,5237,29,N,No,Yes,2023-10-16,6,81.98,1.691106168,95,6,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,N,Y,Y,Y,td1,Fetal Distress,Y,N
+Chinwendu Emelife,5123,27,N,No,Yes,2023-06-13,24,77.92,1.874074214,108,24,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Intrahepatic Cholestasis of Pregnancy (ICP),Y,N
+Esther Ukachukwu,5754,48,N,No,Yes,2023-09-13,11,79.01,1.119220901,107,11,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,Y,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Faith Chukwudi,3352,50,N,No,Yes,2023-06-14,24,77.78,1.867621986,121,24,Y,N,N,Y,Y,Y,Treated,Refer,Negative,10.5,N,Y,Y,N,Y,Y,td1td2,Uterine Rupture,Y,N
+Happiness Ogbu,5419,42,N,No,Yes,2023-05-19,27,88.91,1.848221838,120,27,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Preterm Labor,Y,N
+Kate Ibe,2627,23,N,No,Yes,2023-06-01,26,86.05,1.259664379,96,26,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Precious Chukwu,9170,46,N,Yes,No,2023-08-17,15,74.99,1.805208058,111,15,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Dorcas Nwankwo,9502,42,N,Yes,No,2023-05-11,29,81.1,1.070403087,110,29,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Postpartum Hemorrhage,Y,N
+Patience Okorie,2060,24,N,Yes,No,2023-09-02,12,79.12,1.314941755,130,12,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Chima Obi,2612,18,N,No,Yes,2023-07-13,20,73.17,1.966414636,96,20,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Joy Okoye,4532,15,N,Yes,No,2023-07-13,20,78.53,1.598238637,119,20,Y,N,N,Y,Y,Y,Negative,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Drug or Substance Abuse,Y,N
+Comfort Nwosu,3745,28,N,No,Yes,2023-07-16,19,89.9,1.479547897,121,19,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,N
+Ogechi Obasi,8473,37,N,Yes,No,2023-08-20,14,83.6,1.908136353,98,14,Y,N,N,Y,Y,Y,Treated,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Priscilla Mbah,2963,47,N,Yes,No,2023-03-08,38,75.3,1.830213004,99,38,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,Y,Y,N,Y,td1td2,Preeclampsia,Y,Y
+Juliana Duru,7798,19,N,Yes,No,2023-07-11,20,83.61,1.256110907,108,20,Y,N,N,Y,Y,Y,Treated,Refer,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Blessing Ani,3223,27,N,No,Yes,2023-07-04,21,70.2,1.314934005,98,21,Y,N,N,Y,Y,Y,Negative,Positive,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Chorioamnionitis,Y,N
+Nkechi Okoye,5190,33,N,No,Yes,2023-06-10,24,89.4,1.643381415,113,24,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Roseline Onwu,1126,25,N,No,Yes,2023-04-05,34,84.89,1.13575998,120,34,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Mercy Anyasi,8342,44,N,Yes,No,2023-05-23,27,81.8,1.335071027,114,27,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Fetal Macrosomia,Y,N
+Amarachi Nwankwo,9796,19,N,Yes,No,2023-10-28,4,81.07,1.755249225,112,4,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,Y,Y,N,Y,td1,Fetal Anomalies or Birth Defects,Y,N
+Felicia Ike,3959,34,N,No,Yes,2023-03-22,36,88.97,1.165326682,115,36,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,Y
+Chiamaka Onwu,8133,41,N,Yes,No,2023-09-23,9,79.3,1.982924872,132,9,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,Y,N,Y,Y,td1,Chronic Hypertension in Pregnancy,Y,N
+Ngozi Obasi,3678,36,N,Yes,No,2023-10-23,5,90.98,1.814446486,109,5,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,Y,Y,N,Y,td1,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Beatrice Eze,3804,20,N,No,Yes,2023-04-01,34,78.45,1.207709115,129,34,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,Gestational Diabetes Mellitus (GDM),Y,N
+Nkem Okonkwo,4159,25,N,No,Yes,2023-03-24,35,75.31,1.897820196,115,35,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,Y,N,Y,Y,td1td2,Placental Abruption,Y,N
+Chioma Amadi,8128,47,N,Yes,No,2023-09-24,9,80.84,1.165777407,110,9,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,Y,N,Y,Y,td1,Cervical Insufficiency,Y,N
+Peace Okereke,5059,49,N,Yes,No,2023-06-20,23,81.53,1.036525826,108,23,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Retained Placenta,Y,N
+Uloma Duru,6323,33,N,Yes,No,2023-07-23,18,84.2,1.840267551,98,18,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Eclampsia,Y,N
+Amara Chukwu,9954,45,N,No,Yes,2023-10-03,8,74.7,1.882396551,108,8,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,N,N,Y,Y,td1,Gestational Hypothyroidism,Y,N
+Chinwe Okoronkwo,4655,22,N,Yes,No,2023-10-13,6,70.3,1.324889579,138,6,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1,Gestational Trophoblastic Neoplasia,Y,N
+Uzoamaka Okafor,7352,42,N,No,Yes,2023-05-17,28,87.37,1.42829277,139,28,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,Y,Y,N,Y,td1td2,Fetal Growth Restriction,Y,N
+Uju Onwu,2570,22,N,Yes,No,2023-07-25,18,81.29,1.112939968,97,18,Y,N,N,Y,Y,Y,Positive,Negative,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Neonatal Jaundice,Y,N
+Esther Anyasi,3232,33,N,No,Yes,2023-09-17,10,82.32,1.704977137,130,10,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,N,Y,Y,Y,td1td2,Obstetric Fistula,Y,N
+Ada Nwoke,7751,35,N,No,Yes,2023-03-20,36,80.66,1.728029735,119,36,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,Y,Y,N,Y,td1td2,Thrombocytopenia,Y,Y
+Ogechi Duru,7618,47,N,No,Yes,2023-10-19,6,80.35,1.421311948,122,6,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,Y,Y,N,Y,td1,Cervical Cancer or Precancerous Conditions,Y,N
+Nneka Ude,9051,14,N,Yes,No,2023-06-06,25,86.08,1.184067129,102,25,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Uzoamaka Ibe,4326,32,N,Yes,No,2023-06-26,22,79.87,1.486381519,128,22,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Hyperemesis Gravidarum,Y,N
+Onyekachukwu Emeife,4474,38,N,Yes,No,2023-09-15,10,84.57,1.972881302,119,10,Y,N,N,Y,Y,Y,Positive,Positive,Refer,11,N,Y,Y,N,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Amarachi Eze,3259,41,N,No,Yes,2023-05-28,26,72.43,1.729586478,111,26,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Ifeoma Aneke,9218,43,N,Yes,No,2023-06-01,26,70.09,1.298040251,132,26,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Amara Eze,8010,22,N,Yes,No,2023-05-26,26,80.41,1.43858911,139,26,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Chinwe Chukwu,8011,34,N,Yes,No,2023-03-16,37,90.86,1.374689077,125,37,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,Y,N,Y,td1td2,Gestational Diabetes,Y,Y
+Juliet Ilo,9682,45,N,No,Yes,2023-08-11,15,72.11,1.804449602,113,15,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Recurrent Miscarriage,Y,N
+Uzoamaka Eze,5836,23,N,No,Yes,2023-09-11,11,76.1,1.295926148,115,11,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,Y,Y,Y,td1td2,Oligohydramnios,Y,N
+Ngozi Obasi,6744,19,N,No,Yes,2023-08-01,17,81.6,1.548156763,110,17,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Postpartum Depression,Y,N
+Chiamaka Obi,4469,41,N,Yes,No,2023-09-11,11,75.72,1.08772683,110,11,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,Y,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Nkiru Ukachi,3958,29,N,Yes,No,2023-07-12,20,84.45,1.248856988,120,20,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Uterine Rupture,Y,N
+Chioma Onwu,9763,27,N,Yes,No,2023-04-26,31,84.31,1.618544745,94,31,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,Amniotic Fluid Embolism,Y,N
+Chinwendu Ude,4754,41,N,No,Yes,2023-03-28,35,82.43,1.54213301,132,35,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Gestational Hypertension,Y,N
+Peace Okafor,3833,44,N,Yes,No,2023-07-25,18,75.44,1.672116715,110,18,Y,N,N,Y,Y,Y,Treated,Negative,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Nnedimma Okoronkwo,6842,29,N,No,Yes,2023-05-25,27,82.97,1.837100529,140,27,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Thrombocytopenia,Y,N
+Joy Uzoamaka,5477,36,N,No,Yes,2023-09-06,12,90.29,1.242415496,137,12,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,N,Y,Y,Y,td1td2,Fetal Distress,Y,N
+Ngozi Anyasi,6005,14,N,No,Yes,2023-09-05,12,78.36,1.255248987,140,12,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,Y,Y,N,Y,td1td2,Preterm Labor,Y,N
+Amara Chukwu,7594,49,N,No,Yes,2023-10-19,6,76.57,1.86057209,116,6,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,N,N,Y,Y,td1,Gestational Hypertension,Y,N
+Praise Nnadi,7159,16,N,Yes,No,2023-04-24,31,89.06,1.526892427,94,31,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Juliet Onwu,1022,31,N,Yes,No,2023-08-09,16,90.36,1.826201453,98,16,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Felicia Onwu,3721,27,N,No,Yes,2023-08-13,15,80.89,1.774417148,140,15,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Prolonged Labor,Y,N
+Amara Obi,7982,22,N,No,Yes,2023-04-22,31,89.33,1.575225297,133,31,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,Y,Y,N,Y,td1td2,Hypertension (High Blood Pressure),Y,N
+Amarachi Duru,9469,15,N,No,Yes,2023-05-06,29,76,1.473358338,124,29,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Diabetes Mellitus,Y,N
+Nkiru Ani,1036,41,N,No,Yes,2023-04-20,32,80.63,1.79007469,127,32,Y,N,N,Y,Y,Y,Positive,Positive,Refer,11,N,Y,N,N,Y,Y,td1td2,Anemia,Y,N
+Chinwe Eze,4061,27,N,No,Yes,2023-06-09,24,82.45,1.290008729,114,24,Y,N,N,Y,Y,Y,Negative,Refer,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Gestational Diabetes,Y,N
+Ogechukwu Anyasi,4002,45,N,No,Yes,2023-03-15,37,77.94,1.063744869,90,37,Y,N,N,Y,Y,Y,Positive,Positive,Refer,11,N,Y,N,N,Y,Y,td1td2,Preterm Labor,Y,Y
+Blessing Umeh,1855,33,N,No,Yes,2023-06-19,23,78.43,1.529191655,106,23,Y,N,N,Y,Y,Y,Negative,Refer,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Preeclampsia,Y,N
+Juliet Obasi,9476,33,N,Yes,No,2023-08-14,15,79.93,1.394982804,130,15,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Placental Abruption,Y,N
+Chioma Eze,6940,37,N,Yes,No,2023-04-08,33,71.59,1.682141859,118,33,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Uloma Okoronkwo,3922,25,N,No,Yes,2023-05-08,29,90.55,1.134122762,138,29,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Stella Duru,2472,22,N,No,Yes,2023-07-17,19,89.55,1.872159322,133,19,Y,N,N,Y,Y,Y,Treated,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Postpartum Hemorrhage,Y,N
+Esther Obi,7721,26,N,Yes,No,2023-08-25,13,71.3,1.617852525,131,13,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,N
+Ngozi Duru,3103,31,N,Yes,No,2023-05-22,27,83.55,1.502798766,95,27,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Ectopic Pregnancy,Y,N
+Chinwe Okonkwo,1941,44,N,No,Yes,2023-05-03,30,75.12,1.476577638,121,30,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,Y,N,Y,Y,td1td2,Gestational Diabetes Mellitus (GDM),Y,N
+Ifeoma Duru,2778,28,N,Yes,No,2023-03-07,38,80.74,1.545142912,122,38,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,N,Y,Y,Y,td1td2,Polyhydramnios,Y,Y
+Juliet Ani,7884,42,N,Yes,No,2023-04-03,34,89.02,1.492665695,138,34,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,Y,N,Y,td1td2,Oligohydramnios,Y,N
+Ijeoma Chukwu,1265,26,N,Yes,No,2023-08-01,17,70.25,1.448617174,94,17,Y,N,N,Y,Y,Y,Negative,Positive,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Thrombocytopenia,Y,N
+Nneka Onoja,2008,41,N,No,Yes,2023-04-08,33,76.31,1.853453932,127,33,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Urinary Tract Infection (UTI),Y,N
+Ogechi Anyasi,2660,40,N,Yes,No,2023-08-08,16,76.16,1.812173329,128,16,Y,N,N,Y,Y,Y,Treated,Negative,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Hyperemesis Gravidarum,Y,N
+Onyekachukwu Ani,3222,42,N,No,Yes,2023-10-11,7,86.05,1.336324381,129,7,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,N,Y,Y,td1,Gestational Hypothyroidism,Y,N
+Amara Okafor,9959,36,N,No,Yes,2023-04-16,32,89.05,1.446029612,139,32,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Gestational Hypertension,Y,N
+Amarachi Obi,2260,38,N,No,Yes,2023-06-07,25,87.64,1.819546114,120,25,Y,N,N,Y,Y,Y,Treated,Positive,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Intrahepatic Cholestasis of Pregnancy (ICP),Y,N
+Nkechi Ilo,1478,15,N,No,Yes,2023-03-28,35,72.54,1.842945997,130,35,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,Y,Y,N,Y,td1td2,Recurrent Miscarriage,Y,N
+Chinwendu Chukwu,1164,17,N,Yes,No,2023-05-24,27,74.27,1.376382653,128,27,Y,N,N,Y,Y,Y,Negative,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Cervical Insufficiency,Y,N
+Nneoma Ani,5003,21,N,No,Yes,2023-10-08,7,87.7,1.546983585,100,7,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,Y,Y,Y,td1,Fetal Macrosomia,Y,N
+Ngozi Ibe,4952,20,N,Yes,No,2023-04-15,32,70.98,1.378352703,93,32,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,Y,N,Y,Y,td1td2,Neonatal Jaundice,Y,N
+Nkeiruka Ude,3350,37,N,No,Yes,2023-08-06,16,81.43,1.256465524,107,16,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Fetal Distress,Y,N
+Ozoemena Ude,1271,25,N,Yes,No,2023-08-19,14,87.93,1.517383641,92,14,Y,N,N,Y,Y,Y,Negative,Positive,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Blessing Okoro,6275,20,N,Yes,No,2023-07-08,20,82.07,1.810467022,123,20,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,N,N,Y,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Chiamaka Duru,3923,21,N,Yes,No,2023-09-23,9,85.69,1.022465018,93,9,Y,N,N,Y,Y,Y,Positive,Positive,Negative,11,N,Y,N,Y,Y,Y,td1,Retained Placenta,Y,N
+Ujunwa Anyasi,9186,40,N,No,Yes,2023-07-26,18,79.64,1.475968503,122,18,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Fetal Growth Restriction,Y,N
+Juliana Onoja,6598,32,N,Yes,No,2023-07-13,20,84,1.30722626,107,20,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Uterine Rupture,Y,N
+Chinasa Onwu,1145,20,N,No,Yes,2023-03-20,36,88.18,1.718093456,135,36,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Postpartum Depression,Y,Y
+Ijeoma Duru,7097,33,N,Yes,No,2023-09-21,10,88.13,1.044407521,105,10,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Chorioamnionitis,Y,N
+Amara Duru,4580,41,N,No,Yes,2023-06-10,24,90.26,1.319389153,95,24,Y,N,N,Y,Y,Y,Treated,Positive,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Amarachi Obasi,1464,19,N,No,Yes,2023-09-27,9,89,1.080490869,114,9,Y,N,N,Y,Y,Y,Positive,Refer,Negative,11,N,Y,Y,N,Y,Y,td1,Umbilical Cord Abnormalities,Y,N
+Beatrice Eze,5920,21,N,Yes,No,2023-04-15,32,70.85,1.368689024,93,32,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Chinasa Obi,5616,30,N,No,Yes,2023-04-20,32,82.83,1.197391675,124,32,Y,N,N,Y,Y,Y,Positive,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,N
+Chinwe Duru,1732,28,N,No,Yes,2023-10-01,8,89.3,1.610777598,123,8,Y,N,N,Y,Y,Y,Positive,Negative,Negative,11,N,Y,Y,N,Y,Y,td1,Chronic Hypertension in Pregnancy,Y,N
+Esther Anyasi,3614,43,N,Yes,No,2023-04-25,31,90.81,1.4862601,119,31,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,Y,Y,N,Y,td1td2,"Cardiac Conditions in Pregnancy (e.g., Congenital Heart Disease)",Y,N
+Felicia Obi,8522,40,N,Yes,No,2023-04-14,32,75.4,1.921332911,90,32,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,Y,N,Y,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Ijeoma Ani,3957,33,N,No,Yes,2023-04-27,31,77.23,1.794003621,114,31,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,Y,Y,N,Y,td1td2,Eclampsia,Y,N
+Juliet Duru,9244,50,N,Yes,No,2023-03-25,35,71.85,1.214874514,100,35,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,Y,Y,N,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Nneka Chukwu,5762,31,N,Yes,No,2023-07-28,17,74.98,1.228335819,99,17,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Ogechi Ani,9820,49,N,Yes,No,2023-03-21,36,77.6,1.515603639,117,36,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Drug or Substance Abuse,Y,Y
+Peace Obi,9249,48,N,No,Yes,2023-03-11,37,88.14,1.267138926,102,37,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Amniotic Fluid Embolism,Y,Y
+Amara Obi,3416,49,N,Yes,No,2023-06-23,22,80.95,1.055922571,119,22,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Blessing Nwosu,3394,29,N,No,Yes,2023-07-12,20,77.49,1.007945671,96,20,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Chinwendu Ani,8013,30,N,No,Yes,2023-04-10,33,75.85,1.262740158,111,33,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Chioma Obi,9986,45,N,No,Yes,2023-10-20,5,76.4,1.332160838,105,5,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,Y,Y,N,Y,td1,Prolonged Labor,Y,N
+Chioma Duru,5421,39,N,Yes,No,2023-08-03,17,84.86,1.011363166,116,17,Y,N,N,Y,Y,Y,Treated,Negative,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Obstetric Fistula,Y,N
+Chinwendu Okafor,3148,38,N,Yes,No,2023-05-19,27,89.9,1.848960917,120,27,Y,N,N,Y,Y,Y,Negative,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Diabetes Mellitus (GDM),Y,N
+Felicia Ukachi,9782,36,N,Yes,No,2023-04-28,30,83.99,1.680396385,117,30,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,Y,N,Y,Y,td1td2,Hyperemesis Gravidarum,Y,N
+Ijeoma Eze,6463,34,N,No,Yes,2023-03-14,37,86.08,1.143779758,127,37,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Gestational Hypertension,Y,Y
+Nkechi Okoronkwo,4398,26,N,No,Yes,2023-10-02,8,80.04,1.618252818,119,8,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,N,Y,Y,td1,Cervical Insufficiency,Y,N
+Peace Ukachi,2664,41,N,Yes,No,2023-06-25,22,87.77,1.394947619,110,22,Y,N,N,Y,Y,Y,Treated,Refer,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Diabetes,Y,N
+Ujunwa Chukwu,7815,45,N,No,Yes,2023-04-13,33,86.44,1.89445498,119,33,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,Y,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Amara Eze,6021,51,N,Yes,No,2023-03-10,37,74.24,1.191822615,123,37,Y,N,N,Y,Y,Y,Positive,Positive,Negative,11,N,Y,Y,Y,N,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,Y
+Amarachi Nwankwo,9193,38,N,Yes,No,2023-09-22,9,73.85,1.537995587,125,9,Y,N,N,Y,Y,Y,Positive,Negative,Negative,11,N,Y,Y,N,Y,Y,td1,Thrombocytopenia,Y,N
+Chidinma Nwoke,4793,43,N,Yes,No,2023-03-01,39,72.53,1.290091294,99,39,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,N,N,Y,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,Y
+Chinasa Nwoke,1526,30,N,No,Yes,2023-09-25,9,84.62,1.273951708,112,9,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,N,N,Y,Y,td1,Gestational Hypothyroidism,Y,N
+Chioma Ukachi,5544,49,N,No,Yes,2023-04-05,34,87.86,1.097986701,96,34,Y,N,N,Y,Y,Y,Positive,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Chinwe Okoronkwo,4053,42,N,No,Yes,2023-07-24,18,88.09,1.250436697,108,18,Y,N,N,Y,Y,Y,Negative,Refer,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Preeclampsia,Y,N
+Esther Chukwu,2390,46,N,No,Yes,2023-09-27,9,86.01,1.224069664,95,9,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1,Cervical Cancer or Precancerous Conditions,Y,N
+Joy Madueke,5192,32,N,No,Yes,2023-04-02,34,79.77,1.34987212,106,34,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,N,N,Y,Y,td1td2,Neonatal Jaundice,Y,N
+Juliana Madueke,1314,21,N,Yes,No,2023-10-25,5,76.37,1.543966389,120,5,Y,N,N,Y,Y,Y,Positive,Refer,Refer,11,N,Y,N,N,Y,Y,td1,Gestational Trophoblastic Neoplasia,Y,N
+Nkiru Duru,1420,38,N,No,Yes,2023-07-04,21,80.55,1.57372278,128,21,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Fetal Growth Restriction,Y,N
+Ogechukwu Onu,5796,27,N,No,Yes,2023-09-15,10,87.68,1.613158143,114,10,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Ujunwa Okoronkwo,5156,22,N,Yes,No,2023-03-08,38,77.71,1.133028959,128,38,Y,N,N,Y,Y,Y,Positive,Refer,Negative,11,N,Y,N,N,Y,Y,td1td2,Placental Abruption,Y,Y
+Amara Duru,1977,29,N,No,Yes,2023-07-04,21,83.55,1.65612744,109,21,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Obstetric Fistula,Y,N
+Chiamaka Anyasi,2631,24,N,Yes,No,2023-06-09,24,71.61,1.104567923,93,24,Y,N,N,Y,Y,Y,Treated,Negative,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Drug or Substance Abuse,Y,N
+Chinwendu Obi,3205,18,N,Yes,No,2023-10-22,5,89.34,1.116544966,106,5,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,N,Y,Y,Y,td1,Chorioamnionitis,Y,N
+Felicia Duru,7498,25,N,Yes,No,2023-09-27,9,78.14,1.101734905,90,9,Y,N,N,Y,Y,Y,Positive,Refer,Refer,11,N,Y,Y,Y,N,Y,td1,Postpartum Hemorrhage,Y,N
+Ijeoma Obi,5397,30,N,Yes,No,2023-03-23,36,81.93,1.927174371,131,36,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,N,N,Y,Y,td1td2,Recurrent Miscarriage,Y,Y
+Juliet Chukwu,5240,46,N,Yes,No,2023-05-05,29,83.32,1.109930446,134,29,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,Y,Y,N,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Nkedimma Eze,4797,29,N,No,Yes,2023-09-16,10,82.6,1.757103497,112,10,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,N,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Nneka Madueke,2534,35,N,No,Yes,2023-04-14,32,85.16,1.527746866,99,32,Y,N,N,Y,Y,Y,Negative,Positive,Negative,11,N,Y,N,Y,Y,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Peace Duru,9488,20,N,Yes,No,2023-10-08,7,71.2,1.951258458,90,7,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1,Eclampsia,Y,N
+Uju Onu,4745,14,N,No,Yes,2023-08-12,15,72.3,1.604853004,106,15,Y,N,N,Y,Y,Y,Negative,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Amarachi Ani,5290,26,N,No,Yes,2023-08-26,13,78.85,1.85324537,111,13,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,N,Y,Y,Y,td1td2,Urinary Tract Infection (UTI),Y,N
+Chinasa Chukwu,9291,38,N,Yes,No,2023-06-12,24,82.58,1.26964526,137,24,Y,N,N,Y,Y,Y,Treated,Refer,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,"Cardiac Conditions in Pregnancy (e.g., Congenital Heart Disease)",Y,N
+Chinwe Nwoke,7989,26,N,Yes,No,2023-04-23,31,79.66,1.262168666,119,31,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,Y,Y,Y,td1td2,Fetal Macrosomia,Y,N
+Esther Nwankwo,1300,22,N,No,Yes,2023-06-24,22,73.57,1.55793116,125,22,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Chronic Hypertension in Pregnancy,Y,N
+Happiness Onwu,6175,50,N,Yes,No,2023-08-12,15,72.3,1.878157804,140,15,Y,N,N,Y,Y,Y,Positive,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Postpartum Depression,Y,N
+Ngozi Duru,6575,51,N,No,Yes,2023-05-10,29,75.76,1.513756007,109,29,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Ogechukwu Duru,9124,31,N,Yes,No,2023-03-20,36,76.22,1.577198463,134,36,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,Y,N,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,Y
+Uloma Nwoke,1247,21,N,No,Yes,2023-03-15,37,81.14,1.213749811,98,37,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,Y,Y,N,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,Y
+Chidinma Ukachi,7823,23,N,Yes,No,2023-04-23,31,83.79,1.511999232,133,31,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,Y,Y,N,Y,td1td2,Oligohydramnios,Y,N
+Juliet Ukachi,6898,38,N,Yes,No,2023-08-10,16,88.32,1.183171322,124,16,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Retained Placenta,Y,N
+Amara Ukachi,5305,45,N,Yes,No,2023-10-28,4,74.01,1.1324706,97,4,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,N,Y,Y,Y,td1,Drug or Substance Abuse,Y,N
+Amarachi Chukwu,2971,24,N,Yes,No,2023-06-09,24,72.45,1.013254646,114,24,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Amniotic Fluid Embolism,Y,N
+Chidinma Ani,5742,47,N,Yes,No,2023-07-01,21,79.57,1.268090564,116,21,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,Y,N,Y,Y,td1td2,Prolonged Labor,Y,N
+Chinasa Ukachi,1318,39,N,No,Yes,2023-08-27,13,74.14,1.825747343,124,13,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,N,Y,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Chinwendu Duru,8702,51,N,Yes,No,2023-06-16,23,80.03,1.937641295,94,23,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Esther Onwu,1516,28,N,No,Yes,2023-07-08,20,77.63,1.33282243,125,20,Y,N,N,Y,Y,Y,Negative,Positive,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Fetal Distress,Y,N
+Ifeoma Eze,1413,15,N,Yes,No,2023-08-20,14,82.13,1.565622444,139,14,Y,N,N,Y,Y,Y,Positive,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Intrahepatic Cholestasis of Pregnancy (ICP),Y,N
+Nkeiru Duru,4393,51,N,Yes,No,2023-03-22,36,76.19,1.666222135,116,36,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,N,Y,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,Y
+Peace Ukachi,9450,36,N,No,Yes,2023-05-12,28,84.85,1.193673388,138,28,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Uterine Rupture,Y,N
+Uju Nwank,2723,17,N,No,Yes,2023-04-08,33,76.58,1.020696553,111,33,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Preterm Labor,Y,N
+Amara Obasi,6670,24,N,No,Yes,2023-09-11,11,81.91,1.275718772,121,11,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,N,Y,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Amarachi Duru,4698,50,N,No,Yes,2023-08-14,15,71.15,1.1674896,113,15,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Chiamaka Madueke,8913,43,N,No,Yes,2023-08-14,15,82.39,1.097294299,115,15,Y,N,N,Y,Y,Y,Treated,Negative,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Postpartum Hemorrhage,Y,N
+Chinwendu Eze,5432,34,N,Yes,No,2023-06-07,25,85.56,1.914322619,125,25,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Felicia Obi,2145,33,N,No,Yes,2023-09-20,10,86.48,1.984713973,100,10,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,Y,N,Y,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Ifeoma Chukwu,4053,14,N,Yes,No,2023-10-07,7,83.92,1.667216145,113,7,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,N,N,Y,Y,td1,Drug or Substance Abuse,Y,N
+Juliana Ani,4883,25,N,No,Yes,2023-03-23,36,88.21,1.510929737,137,36,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,Y
+Nkeiru Nwoke,9741,18,N,Yes,No,2023-09-13,11,85.37,1.96752132,116,11,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Nkiru Ukachi,4447,33,N,No,Yes,2023-10-24,5,86.22,1.113542801,106,5,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,Y,N,Y,Y,td1,Preeclampsia,Y,N
+Ogechi Duru,1487,23,N,No,Yes,2023-05-10,29,72.26,1.978068212,92,29,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,N,N,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Peace Ilo,4728,22,N,Yes,No,2023-05-28,26,90.95,1.140318849,140,26,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Chorioamnionitis,Y,N
+Uloma Duru,1593,29,N,No,Yes,2023-09-06,12,71.05,1.478408073,125,12,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Amara Eze,2039,27,N,No,Yes,2023-07-13,20,87.07,1.502312044,135,20,Y,N,N,Y,Y,Y,Negative,Refer,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Amarachi Ukachi,3626,33,N,No,Yes,2023-03-22,36,81.43,1.579741064,133,36,Y,N,N,Y,Y,Y,Positive,Refer,Refer,11,N,Y,Y,Y,N,Y,td1td2,Fetal Macrosomia,Y,Y
+Blessing Duru,2386,36,N,Yes,No,2023-07-23,18,89.98,1.12296073,113,18,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Chiamaka Ukachi,2170,26,N,Yes,No,2023-05-24,27,76.8,1.012988486,134,27,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,Y,N,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Chinwe Okoronkwo,2395,40,N,Yes,No,2023-03-12,37,87.81,1.29202632,120,37,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,Y,Y,N,Y,td1td2,Chronic Hypertension in Pregnancy,Y,Y
+Esther Ukachi,9605,18,N,No,Yes,2023-07-20,19,70.33,1.416018229,127,19,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Felicia Ani,6438,44,N,Yes,No,2023-09-10,11,80.37,1.804247379,119,11,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Gestational Diabetes Mellitus (GDM),Y,N
+Ijeoma Duru,8166,37,N,No,Yes,2023-08-01,17,84.64,1.881134527,134,17,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Placental Abruption,Y,N
+Joy Ukachi,1641,50,N,No,Yes,2023-06-09,24,73.95,1.371182255,125,24,Y,N,N,Y,Y,Y,Treated,Negative,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Cervical Insufficiency,Y,N
+Ngozi Nwankwo,7283,49,N,Yes,No,2023-10-18,6,90.88,1.937913648,100,6,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,N,Y,Y,Y,td1,Retained Placenta,Y,N
+Onyekachukwu Ukachi,1923,27,N,Yes,No,2023-07-25,18,89.43,1.26841082,102,18,Y,N,N,Y,Y,Y,Negative,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Eclampsia,Y,N
+Priscilla Obi,5774,40,N,Yes,No,2023-10-21,5,70.13,1.960760107,97,5,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,N,Y,Y,Y,td1,Gestational Hypothyroidism,Y,N
+Amara Ilo,5215,14,N,No,Yes,2023-06-10,24,83.12,1.601476415,120,24,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Amarachi Madueke,2708,34,N,Yes,No,2023-05-05,29,71.53,1.107804159,139,29,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,N,Y,Y,td1td2,Fetal Growth Restriction,Y,N
+Chinasa Onu,3588,40,N,No,Yes,2023-03-18,36,84.91,1.620486782,125,36,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,Neonatal Jaundice,Y,Y
+Chinwendu Madueke,6457,20,N,Yes,No,2023-04-15,32,79.94,1.322234564,123,32,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,Y,Y,N,Y,td1td2,Obstetric Fistula,Y,N
+Esther Nwoke,1271,49,N,Yes,No,2023-05-26,26,87.79,1.268431028,93,26,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Thrombocytopenia,Y,N
+Ifeoma Ukachi,9534,18,N,Yes,No,2023-06-15,24,79.35,1.290748409,104,24,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,Y,N,Y,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,N
+Juliet Ani,2949,28,N,Yes,No,2023-06-02,25,79.96,1.146025322,96,25,Y,N,N,Y,Y,Y,Negative,Negative,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Nnedimma Ani,7629,38,N,No,Yes,2023-10-23,5,82.72,1.133634845,126,5,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,Y,N,Y,td1,Hyperemesis Gravidarum,Y,N
+Nneka Nwankwo,2874,38,N,Yes,No,2023-04-01,34,89.4,1.232483509,96,34,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,Y,N,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Ogechukwu Ukachi,2465,51,N,No,Yes,2023-07-10,20,81.55,1.586857197,102,20,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Amarachi Umeh,7123,50,N,Yes,No,2023-10-16,6,87.72,1.014701192,108,6,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,Y,N,Y,Y,td1,Gestational Hypertension,Y,N
+Blessing Eze,5143,17,N,Yes,No,2023-03-25,35,90.7,1.128698524,109,35,Y,N,N,Y,Y,Y,Positive,Negative,Negative,11,N,Y,N,Y,Y,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Chinasa Eze,5865,36,N,No,Yes,2023-10-02,8,82.52,1.024737093,122,8,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,Y,N,Y,Y,td1,Gestational Diabetes,Y,N
+Chinwe Madueke,4560,25,N,Yes,No,2023-06-25,22,76.25,1.162237017,106,22,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Recurrent Miscarriage,Y,N
+Dorcas Ukachi,5514,30,N,Yes,No,2023-07-25,18,82.14,1.797728822,92,18,Y,N,N,Y,Y,Y,Negative,Negative,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Oligohydramnios,Y,N
+Felicia Nwankwo,4315,51,N,No,Yes,2023-03-26,35,72.09,1.714598367,139,35,Y,N,N,Y,Y,Y,Positive,Refer,Negative,11,N,Y,N,N,Y,Y,td1td2,Postpartum Depression,Y,N
+Jennifer Ukachi,2961,29,N,No,Yes,2023-08-09,16,73.45,1.662360082,125,16,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Nkiru Madueke,4275,28,N,Yes,No,2023-06-18,23,78.2,1.908413692,110,23,Y,N,N,Y,Y,Y,Negative,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Uterine Rupture,Y,N
+Peace Ukachi,7370,31,N,Yes,No,2023-09-26,9,77.76,1.679414043,125,9,Y,N,N,Y,Y,Y,Negative,Positive,Negative,11,N,Y,Y,Y,N,Y,td1,Amniotic Fluid Embolism,Y,N
+Amarachi Obi,9954,46,N,No,Yes,2023-08-22,14,90.59,1.641564345,98,14,Y,N,N,Y,Y,Y,Negative,Negative,Negative,10.5,N,Y,Y,N,Y,Y,td1td2,Gestational Hypertension,Y,N
+Chinasa Ukachi,7480,35,N,No,Yes,2023-04-03,34,85.17,1.153934454,112,34,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,Y,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Chinwe Eze,8089,49,N,No,Yes,2023-06-26,22,84.25,1.605525447,117,22,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Thrombocytopenia,Y,N
+Ebelechukwu Duru,4899,48,N,Yes,No,2023-04-28,30,78.67,1.262061742,137,30,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,Y,N,Y,Y,td1td2,Fetal Distress,Y,N
+Felicia Onu,6242,29,N,Yes,No,2023-10-07,7,86.07,1.519824828,112,7,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,Y,N,Y,Y,td1,Preterm Labor,Y,N
+Ifeoma Ukachi,4819,38,N,Yes,No,2023-10-15,6,75.6,1.508396947,138,6,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,Y,Y,Y,td1,Gestational Hypertension,Y,N
+Ngozi Madueke,4118,26,N,Yes,No,2023-10-03,8,90.89,1.054705488,114,8,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,N,N,Y,Y,td1,Gestational Trophoblastic Neoplasia,Y,N
+Nneka Ukachi,8886,33,N,No,Yes,2023-05-21,27,78.51,1.971304329,135,27,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Priscilla Madueke,7055,16,N,No,Yes,2023-04-18,32,76.33,1.027956523,110,32,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,Y,Y,N,Y,td1td2,Prolonged Labor,Y,N
+Amara Eze,6694,26,N,No,Yes,2023-10-08,7,79.64,1.180154619,121,7,Y,N,N,Y,Y,Y,Positive,Refer,Negative,11,N,Y,Y,N,Y,Y,td1,Oligohydramnios,Y,N
+Chinasa Nwoke,6586,46,N,Yes,No,2023-08-07,16,73.44,1.876266291,119,16,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Thrombocytopenia,Y,N
+Chinasa Ukachi,9111,50,N,Yes,No,2023-08-09,16,81.34,1.661294397,127,16,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Urinary Tract Infection (UTI),Y,N
+Ezinne Ukachi,5287,40,N,No,Yes,2023-04-03,34,83.17,1.450315095,132,34,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,Y,N,Y,Y,td1td2,Hyperemesis Gravidarum,Y,N
+Ijeoma Nwankwo,2276,29,N,Yes,No,2023-08-28,13,89.67,1.567855111,112,13,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,N,Y,Y,Y,td1td2,Gestational Hypothyroidism,Y,N
+Juliana Ukachi,5730,31,N,No,Yes,2023-08-08,16,70.32,1.891797163,115,16,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Hypertension,Y,N
+Ngozi Duru,8614,32,N,Yes,No,2023-04-18,32,80.71,1.982298201,96,32,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,N,N,Y,Y,td1td2,Intrahepatic Cholestasis of Pregnancy (ICP),Y,N
+Ngozi Ukachi,6785,33,N,No,Yes,2023-03-06,38,86.04,1.961624752,96,38,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,Recurrent Miscarriage,Y,Y
+Nkiru Onwu,6533,48,N,No,Yes,2023-03-12,37,84.53,1.402223148,97,37,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,Y,Y,Y,td1td2,Cervical Insufficiency,Y,Y
+Peace Ukachi,5007,29,N,No,Yes,2023-09-14,11,81.94,1.809876057,102,11,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,Y,Y,Y,td1td2,Fetal Macrosomia,Y,N
+Amara Ukachi,4399,26,N,Yes,No,2023-03-12,37,82.28,1.465929571,111,37,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,Neonatal Jaundice,Y,Y
+Amarachi Okoye,5985,25,N,No,Yes,2023-05-04,30,76.76,1.669419916,114,30,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Fetal Distress,Y,N
+Blessing Ukachi,1582,50,N,No,Yes,2023-08-07,16,79.55,1.552294764,126,16,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Chidinma Duru,3760,23,N,No,Yes,2023-10-08,7,80.58,1.735547854,134,7,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,N,N,Y,Y,td1,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Chinasa Eze,8709,51,N,Yes,No,2023-08-07,16,84.89,1.211936935,132,16,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Retained Placenta,Y,N
+Chinwe Duru,4919,22,N,No,Yes,2023-10-11,7,82.2,1.935076626,101,7,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,N,Y,Y,td1,Fetal Growth Restriction,Y,N
+Dorcas Nwoke,5000,49,N,No,Yes,2023-09-20,10,82.54,1.657467919,132,10,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,Y,Y,N,Y,td1td2,Uterine Rupture,Y,N
+Felicia Ukachi,8314,21,N,No,Yes,2023-05-05,29,86.86,1.312784882,136,29,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,N,N,Y,Y,td1td2,Postpartum Depression,Y,N
+Ifeoma Ukachi,4536,43,N,Yes,No,2023-10-02,8,86.68,1.978215987,108,8,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,Y,N,Y,Y,td1,Chorioamnionitis,Y,N
+Juliet Ukachi,9620,21,N,No,Yes,2023-08-09,16,82.94,1.781656592,132,16,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Ngozi Ukachi,8898,25,N,No,Yes,2023-07-10,20,70.05,1.801431043,127,20,Y,N,N,Y,Y,Y,Treated,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Nneka Duru,3877,48,N,Yes,No,2023-10-12,7,81.91,1.329161222,104,7,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,N,Y,Y,Y,td1,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Peace Okoye,4846,20,N,No,Yes,2023-06-13,24,90.52,1.342930803,123,24,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,N
+Amarachi Umeh,1983,20,N,No,Yes,2023-07-07,20,71.28,1.51796953,110,20,Y,N,N,Y,Y,Y,Treated,Refer,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Chronic Hypertension in Pregnancy,Y,N
+Blessing Ukachi,2488,36,N,Yes,No,2023-08-10,16,79.69,1.081229486,99,16,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,"Cardiac Conditions in Pregnancy (e.g., Congenital Heart Disease)",Y,N
+Chidinma Ukachi,8098,17,N,No,Yes,2023-06-13,24,87.35,1.493812555,124,24,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Chinasa Duru,5304,22,N,No,Yes,2023-09-03,12,72.19,1.532330338,102,12,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,Y,Y,N,Y,td1td2,Eclampsia,Y,N
+Chinwendu Ukachi,7715,51,N,Yes,No,2023-06-06,25,85.15,1.437663075,107,25,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Ezinne Ukachi,2648,30,N,No,Yes,2023-08-15,15,76.7,1.91765286,97,15,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Felicia Duru,8106,34,N,No,Yes,2023-04-16,32,85.43,1.372663707,95,32,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Drug or Substance Abuse,Y,N
+Joy Ukachi,6448,35,N,Yes,No,2023-08-14,15,83.4,1.643236249,127,15,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Amniotic Fluid Embolism,Y,N
+Ngozi Ukachi,9177,28,N,No,Yes,2023-03-08,38,75.1,1.939928847,102,38,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,N,Y,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,Y
+Nkiru Ukachi,2632,43,N,Yes,No,2023-07-23,18,76.1,1.205537269,133,18,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Priscilla Ukachi,4855,36,N,Yes,No,2023-09-04,12,77.42,1.478242326,92,12,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,Y,N,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Amara Ukachi,6763,19,N,No,Yes,2023-08-08,16,81.67,1.05123362,90,16,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Prolonged Labor,Y,N
+Amarachi Duru,2438,15,N,No,Yes,2023-08-24,14,78.85,1.51573884,102,14,Y,N,N,Y,Y,Y,Negative,Refer,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Hypertension (High Blood Pressure),Y,N
+Chiamaka Ukachi,7524,34,N,Yes,No,2023-07-03,21,86.47,1.826412214,113,21,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Chinasa Nwoke,3894,46,N,Yes,No,2023-06-19,23,77.86,1.003027761,90,23,Y,N,N,Y,Y,Y,Negative,Negative,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Anemia,Y,N
+Chinwendu Ukachi,7017,28,N,Yes,No,2023-04-17,32,73.18,1.584062356,118,32,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,N,Y,Y,td1td2,Gestational Diabetes,Y,N
+Ijeoma Ukachi,3007,51,N,No,Yes,2023-09-02,12,75.6,1.954125271,127,12,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,Y,Y,N,Y,td1td2,Preterm Labor,Y,N
+Juliana Ukachi,3991,30,N,Yes,No,2023-06-17,23,87.57,1.646990906,108,23,Y,N,N,Y,Y,Y,Positive,Negative,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Preeclampsia,Y,N
+Ngozi Ukachi,9307,27,N,No,Yes,2023-07-06,21,73.42,1.590451926,123,21,Y,N,N,Y,Y,Y,Treated,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Placental Abruption,Y,N
+Nkiru Duru,7519,51,N,Yes,No,2023-09-26,9,90.04,1.82218044,130,9,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,Y,N,Y,Y,td1,Intrauterine Growth Restriction (IUGR),Y,N
+Peace Duru,7456,36,N,No,Yes,2023-07-07,20,83.85,1.238945496,121,20,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Hypertension,Y,N
+Amarachi Ukachi,2975,51,N,No,Yes,2023-07-17,19,79.81,1.723204811,116,19,Y,N,N,Y,Y,Y,Negative,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Postpartum Hemorrhage,Y,N
+Beauty Udeh,7102,35,N,No,Yes,2023-06-18,23,80.73,1.238259698,119,23,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,N
+Blessing Ukachi,3396,49,N,Yes,No,2023-06-09,24,75.32,1.225394643,130,24,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Ectopic Pregnancy,Y,N
+Chidinma Duru,6489,42,N,Yes,No,2023-09-13,11,90.08,1.232189111,128,11,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Gestational Diabetes Mellitus (GDM),Y,N
+Chinasa Ukachi,5467,27,N,Yes,No,2023-09-13,11,80.98,1.33135197,121,11,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,N,Y,Y,td1td2,Polyhydramnios,Y,N
+Chinwe Ukachi,8901,33,N,Yes,No,2023-03-23,36,77.52,1.821592693,101,36,Y,N,N,Y,Y,Y,Positive,Refer,Refer,11,N,Y,N,Y,Y,Y,td1td2,Obstetric Fistula,Y,Y
+Felicia Ukachi,1834,50,N,No,Yes,2023-07-22,18,89.77,1.168084235,136,18,Y,N,N,Y,Y,Y,Negative,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Diabetes Mellitus (GDM),Y,N
+Ijeoma Ukachi,2152,36,N,Yes,No,2023-07-28,17,84.99,1.40064367,125,17,Y,N,N,Y,Y,Y,Positive,Refer,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Hyperemesis Gravidarum,Y,N
+Nkiru Ukachi,4016,32,N,Yes,No,2023-09-21,10,76.99,1.509607068,95,10,Y,N,N,Y,Y,Y,Positive,Refer,Refer,11,N,Y,Y,Y,N,Y,td1td2,Gestational Hypertension,Y,N
+Nnedimma Duru,6379,16,N,Yes,No,2023-07-28,17,87.56,1.041676121,119,17,Y,N,N,Y,Y,Y,Negative,Positive,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Cervical Insufficiency,Y,N
+Peace Ukachi,7051,33,N,Yes,No,2023-06-17,23,87.63,1.535541958,98,23,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Diabetes,Y,N
+Amarachi Udeh,8542,21,N,Yes,No,2023-07-01,21,72.7,1.492692914,136,21,Y,N,N,Y,Y,Y,Treated,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Chidinma Ukachi,6136,48,N,Yes,No,2023-08-17,15,78.96,1.505087489,125,15,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,N
+Chinasa Ukachi,7609,44,N,No,Yes,2023-05-14,28,85.05,1.628466213,109,28,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Thrombocytopenia,Y,N
+Ezinne Duru,1057,17,N,No,Yes,2023-10-17,6,77.8,1.256232001,108,6,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,Y,N,Y,Y,td1,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Ifeoma Ukachi,7513,15,N,No,Yes,2023-03-16,37,86.8,1.021542159,125,37,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,Gestational Hypothyroidism,Y,Y
+Juliana Ukachi,6161,32,N,Yes,No,2023-08-21,14,74.69,1.542907724,102,14,Y,N,N,Y,Y,Y,Treated,Positive,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Chronic Hypertension in Pregnancy,Y,N
+Nkiru Ukachi,6756,49,N,Yes,No,2023-03-12,37,89.08,1.213006712,125,37,Y,N,N,Y,Y,Y,Positive,Refer,Refer,11,N,Y,Y,Y,N,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,Y
+Peace Ukachi,2340,27,N,Yes,No,2023-06-18,23,70.19,1.949009984,138,23,Y,N,N,Y,Y,Y,Negative,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Diabetes Mellitus (GDM),Y,N
+Priscilla Ukachi,9476,29,N,No,Yes,2023-03-11,37,77.55,1.381029932,110,37,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,Placental Abruption,Y,Y
+Amara Ukachi,7203,26,N,No,Yes,2023-06-10,24,82.47,1.811589438,128,24,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Cervical Insufficiency,Y,N
+Amarachi Ukachi,9341,30,N,Yes,No,2023-08-15,15,74.9,1.907448353,132,15,Y,N,N,Y,Y,Y,Positive,Negative,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Retained Placenta,Y,N
+Beauty Ukachi,4120,36,N,No,Yes,2023-05-18,28,80.98,1.913503223,124,28,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Eclampsia,Y,N
+Chinasa Ukachi,5394,40,N,No,Yes,2023-04-19,32,79.19,1.44041159,107,32,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,N,N,Y,Y,td1td2,Gestational Hypothyroidism,Y,N
+Chinwendu Ukachi,9297,41,N,No,Yes,2023-08-07,16,73.98,1.155523666,112,16,Y,N,N,Y,Y,Y,Treated,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Felicia Ukachi,4802,41,N,No,Yes,2023-10-16,6,80.04,1.400414344,102,6,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,N,Y,Y,Y,td1,Fetal Growth Restriction,Y,N
+Ifeoma Ukachi,4593,46,N,No,Yes,2023-10-03,8,77.86,1.522233204,103,8,Y,N,N,Y,Y,Y,Positive,Positive,Negative,11,N,Y,N,Y,Y,Y,td1,Neonatal Jaundice,Y,N
+Juliana Ukachi,5359,19,N,Yes,No,2023-06-17,23,79.23,1.360141124,97,23,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Obstetric Fistula,Y,N
+Nkiru Ukachi,9942,29,N,Yes,No,2023-03-24,35,79.57,1.563259851,128,35,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,Y,N,Y,Y,td1td2,Thrombocytopenia,Y,N
+Peace Ukachi,3552,17,N,Yes,No,2023-10-09,7,81.86,1.112806281,130,7,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,N,N,Y,Y,td1,Cervical Cancer or Precancerous Conditions,Y,N
+Priscilla Ukachi,9288,37,N,No,Yes,2023-08-01,17,78.6,1.163833962,128,17,Y,N,N,Y,Y,Y,Negative,Refer,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Amara Ukachi,4067,34,N,Yes,No,2023-08-22,14,89.32,1.049086898,134,14,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Hyperemesis Gravidarum,Y,N
+Beauty Ukachi,1141,39,N,Yes,No,2023-09-12,11,89.94,1.238178385,101,11,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,Y,Y,N,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Chidinma Ukachi,5572,37,N,No,Yes,2023-08-11,15,75.44,1.144683381,133,15,Y,N,N,Y,Y,Y,Treated,Negative,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Intrauterine Growth Restriction (IUGR),Y,N
+Chinasa Ukachi,7766,44,N,Yes,No,2023-10-14,6,89.08,1.78132604,118,6,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,Y,N,Y,Y,td1,Gestational Hypertension,Y,N
+Chinwe Ukachi,1991,42,N,Yes,No,2023-05-19,27,82.1,1.234506728,101,27,Y,N,N,Y,Y,Y,Treated,Positive,Positive,10.5,N,Y,N,N,Y,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Dorcas Ukachi,8801,37,N,Yes,No,2023-06-22,23,81.15,1.200682679,105,23,Y,N,N,Y,Y,Y,Negative,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Gestational Diabetes,Y,N
+Felicia Ukachi,3224,15,N,No,Yes,2023-07-06,21,73.96,1.766992168,119,21,Y,N,N,Y,Y,Y,Treated,Positive,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Recurrent Miscarriage,Y,N
+Ijeoma Ukachi,4377,51,N,No,Yes,2023-09-28,9,90.73,1.183285773,120,9,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,Y,N,Y,Y,td1,Oligohydramnios,Y,N
+Nkiru Ukachi,2327,19,N,No,Yes,2023-05-18,28,75.82,1.075430762,107,28,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,Postpartum Depression,Y,N
+Peace Ukachi,1246,22,N,No,Yes,2023-08-24,14,85.19,1.96098372,121,14,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Priscilla Ukachi,2755,44,N,Yes,No,2023-10-18,6,83.73,1.291799428,112,6,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,N,Y,Y,Y,td1,Uterine Rupture,Y,N
+Amarachi Ukachi,9483,36,N,Yes,No,2023-10-19,6,79.32,1.978320708,96,6,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,Y,N,Y,Y,td1,Amniotic Fluid Embolism,Y,N
+Beauty Ukachi,4181,21,N,Yes,No,2023-04-08,33,70.91,1.481405349,120,33,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,Gestational Hypertension,Y,N
+Chinasa Ukachi,9859,20,N,Yes,No,2023-08-19,14,78.03,1.570490088,93,14,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Chinendu Ukachi,5435,39,N,No,Yes,2023-09-13,11,80.9,1.616867109,97,11,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,Y,Y,N,Y,td1td2,Thrombocytopenia,Y,N
+Ezinne Ukachi,2221,45,N,No,Yes,2023-06-12,24,77.55,1.974907805,96,24,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Fetal Distress,Y,N
+Felicia Ukachi,9587,41,N,No,Yes,2023-04-18,32,70.79,1.006059099,98,32,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,Y,Y,N,Y,td1td2,Preterm Labor,Y,N
+Ifeoma Ukachi,2939,48,N,Yes,No,2023-06-26,22,77.69,1.854331185,129,22,Y,N,N,Y,Y,Y,Treated,Negative,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Juliana Ukachi,8212,36,N,No,Yes,2023-05-21,27,86.89,1.276861174,90,27,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Nkiru Ukachi,6788,45,N,Yes,No,2023-06-13,24,82.44,1.963670536,103,24,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Peace Ukachi,6054,29,N,Yes,No,2023-09-18,10,89.5,1.516273564,109,10,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,Y,Y,N,Y,td1td2,Prolonged Labor,Y,N
+Priscilla Ukachi,8114,43,N,Yes,No,2023-04-04,34,79.8,1.678005813,105,34,Y,N,N,Y,Y,Y,Negative,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Amara Ukachi,8448,20,N,Yes,No,2023-06-19,23,75.67,1.028126824,119,23,Y,N,N,Y,Y,Y,Positive,Refer,Negative,10.5,N,Y,Y,N,Y,Y,td1td2,Preeclampsia,Y,N
+Beauty Ukachi,8248,49,N,Yes,No,2023-09-14,11,75.2,1.820840366,119,11,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,N
+Chidinma Ukachi,9446,29,N,No,Yes,2023-04-05,34,75.65,1.837496212,135,34,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,Y,Y,Y,td1td2,Neonatal Jaundice,Y,N
+Chinasa Ukachi,9465,48,N,Yes,No,2023-09-13,11,81.43,1.703376108,104,11,Y,N,N,Y,Y,Y,Positive,Negative,Negative,11,N,Y,Y,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Dorcas Ukachi,9457,36,N,No,Yes,2023-07-05,21,84.05,1.62104877,110,21,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Fetal Growth Restriction,Y,N
+Felicia Ukachi,8295,39,N,Yes,No,2023-06-23,22,84.23,1.254771845,135,22,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,N,N,Y,Y,td1td2,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Ijeoma Ukachi,3938,50,N,Yes,No,2023-10-14,6,90.62,1.304978734,138,6,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,Y,N,Y,Y,td1,Placental Abruption,Y,N
+Juliana Ukachi,3255,47,N,No,Yes,2023-08-01,17,83.21,1.244020008,121,17,Y,N,N,Y,Y,Y,Negative,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Obstetric Fistula,Y,N
+Nkiru Ukachi,7550,40,N,No,Yes,2023-07-02,21,74.15,1.323764033,112,21,Y,N,N,Y,Y,Y,Treated,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Drug or Substance Abuse,Y,N
+Peace Ukachi,3401,44,N,No,Yes,2023-10-04,8,74.77,1.637339952,105,8,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,Y,Y,N,Y,td1,Chorioamnionitis,Y,N
+Priscilla Ukachi,8692,16,N,No,Yes,2023-10-04,8,83.08,1.904848967,90,8,Y,N,N,Y,Y,Y,Negative,Refer,Negative,11,N,Y,N,Y,Y,Y,td1,Postpartum Hemorrhage,Y,N
+Amarachi Ukachi,9175,23,N,Yes,No,2023-06-05,25,75.57,1.949384174,116,25,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Recurrent Miscarriage,Y,N
+Beauty Ukachi,7952,19,N,No,Yes,2023-05-17,28,84.92,1.398078113,121,28,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,Y,N,Y,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Chinasa Ukachi,8043,43,N,No,Yes,2023-07-14,19,71.27,1.419431811,101,19,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Chinwe Ukachi,4087,30,N,No,Yes,2023-05-17,28,85.76,1.718481115,131,28,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Dorcas Ukachi,5455,45,N,Yes,No,2023-07-27,18,74.39,1.510140817,115,18,Y,N,N,Y,Y,Y,Negative,Positive,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Eclampsia,Y,N
+Ezinne Ukachi,4193,26,N,Yes,No,2023-03-18,36,89.61,1.342008061,94,36,Y,N,N,Y,Y,Y,Positive,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,Y
+Felicia Ukachi,8793,22,N,Yes,No,2023-03-27,35,79.27,1.927420264,137,35,Y,N,N,Y,Y,Y,Positive,Positive,Positive,11,N,Y,Y,Y,N,Y,td1td2,Urinary Tract Infection (UTI),Y,N
+Ifeoma Ukachi,5932,34,N,No,Yes,2023-09-09,11,73.91,1.97579796,111,11,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,N,N,Y,Y,td1td2,"Cardiac Conditions in Pregnancy (e.g., Congenital Heart Disease)",Y,N
+Juliana Ukachi,1724,19,N,Yes,No,2023-03-06,38,79.7,1.340288533,92,38,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,Fetal Macrosomia,Y,Y
+Nkiru Ukachi,1142,32,N,No,Yes,2023-09-06,12,87.31,1.956721452,132,12,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,Chronic Hypertension in Pregnancy,Y,N
+Peace Ukachi,4468,22,N,No,Yes,2023-04-16,32,72.32,1.844756337,110,32,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,Y,N,Y,td1td2,Postpartum Depression,Y,N
+Priscilla Ukachi,6149,37,N,No,Yes,2023-09-18,10,73.63,1.642570707,107,10,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,Y,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Amara Ukachi,2333,27,N,Yes,No,2023-04-19,32,72.54,1.729030437,139,32,Y,N,N,Y,Y,Y,Treated,Negative,Positive,11,N,Y,N,Y,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Beauty Ukachi,6774,47,N,No,Yes,2023-06-19,23,73.47,1.150346666,138,23,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Chidinma Ukachi,2537,41,N,No,Yes,2023-10-02,8,84.36,1.605951632,95,8,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,Y,Y,N,Y,td1,Oligohydramnios,Y,N
+Chinasa Ukachi,4387,17,N,No,Yes,2023-09-10,11,75.42,1.147303887,124,11,Y,N,N,Y,Y,Y,Negative,Positive,Refer,11,N,Y,Y,N,Y,Y,td1td2,Retained Placenta,Y,N
+Chinwe Ukachi,3699,15,N,No,Yes,2023-03-21,36,73.92,1.13129938,106,36,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,Drug or Substance Abuse,Y,Y
+Dorcas Ukachi,4660,49,N,Yes,No,2023-10-12,7,87.68,1.461840209,117,7,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,Y,Y,N,Y,td1,Amniotic Fluid Embolism,Y,N
+Felicia Ukachi,5062,20,N,No,Yes,2023-06-17,23,82.69,1.44261427,106,23,Y,N,N,Y,Y,Y,Negative,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Prolonged Labor,Y,N
+Ifeoma Ukachi,1072,43,N,No,Yes,2023-04-28,30,76.95,1.394274182,129,30,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Juliana Ukachi,8302,24,N,Yes,No,2023-06-27,22,79.06,1.446316544,123,22,Y,N,N,Y,Y,Y,Treated,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Hypertension,Y,N
+Nkiru Ukachi,4090,26,N,Yes,No,2023-10-15,6,72.55,1.710353866,94,6,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,N,N,Y,Y,td1,Fetal Distress,Y,N
+Peace Ukachi,5214,37,N,Yes,No,2023-07-14,19,78.86,1.922016831,138,19,Y,N,N,Y,Y,Y,Negative,Positive,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Intrahepatic Cholestasis of Pregnancy (ICP),Y,N
+Priscilla Ukachi,6108,50,N,Yes,No,2023-08-03,17,80.37,1.447065356,105,17,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,N,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Amarachi Ukachi,1079,28,N,No,Yes,2023-05-28,26,85.85,1.463244728,129,26,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Uterine Rupture,Y,N
+Beauty Ukachi,9067,14,N,No,Yes,2023-08-27,13,85.18,1.85380237,118,13,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Preterm Labor,Y,N
+Chinasa Ukachi,8385,37,N,No,Yes,2023-03-05,38,84.65,1.189342443,124,38,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,N,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,Y
+Chinwe Ukachi,8765,22,N,Yes,No,2023-08-14,15,87.76,1.28639091,126,15,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Dorcas Ukachi,5564,17,N,Yes,No,2023-06-24,22,86.32,1.994115075,128,22,Y,N,N,Y,Y,Y,Treated,Negative,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Postpartum Hemorrhage,Y,N
+Ezinne Ukachi,7995,33,N,No,Yes,2023-08-10,16,71.87,1.477725444,116,16,Y,N,N,Y,Y,Y,Negative,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Hypertension,Y,N
+Felicia Ukachi,5541,29,N,No,Yes,2023-08-12,15,84.52,1.440421873,124,15,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,"Mental Health Disorders (e.g., Anxiety, Depression)",Y,N
+Ifeoma Ukachi,7309,23,N,No,Yes,2023-09-21,10,76.14,1.61316038,119,10,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,N,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Juliana Ukachi,4752,20,N,No,Yes,2023-06-07,25,80.96,1.351748393,126,25,Y,N,N,Y,Y,Y,Negative,Positive,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Trophoblastic Disease (GTD),Y,N
+Nkiru Ukachi,4321,31,N,No,Yes,2023-05-24,27,72.96,1.784154538,121,27,Y,N,N,Y,Y,Y,Positive,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Peace Ukachi,7285,40,N,No,Yes,2023-08-21,14,76.12,1.936345938,95,14,Y,N,N,Y,Y,Y,Negative,Refer,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Preeclampsia,Y,N
+Priscilla Ukachi,8772,24,N,Yes,No,2023-09-18,10,76.1,1.265956678,128,10,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,Y,N,Y,Y,td1td2,Diabetes Mellitus,Y,N
+Amara Ukachi,4774,50,N,Yes,No,2023-03-11,37,72.12,1.52102936,104,37,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,Chorioamnionitis,Y,Y
+Beauty Ukachi,2009,47,N,No,Yes,2023-03-15,37,88.09,1.751478244,120,37,Y,N,N,Y,Y,Y,Negative,Positive,Negative,11,N,Y,Y,Y,N,Y,td1td2,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,Y
+Chinasa Ukachi,5729,37,N,Yes,No,2023-09-22,9,83.66,1.248749907,93,9,Y,N,N,Y,Y,Y,Negative,Positive,Positive,11,N,Y,Y,Y,N,Y,td1,Severe Vomiting and Hyperemesis,Y,N
+Chinwe Ukachi,3817,35,N,No,Yes,2023-08-19,14,77.95,1.596819702,96,14,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Fetal Macrosomia,Y,N
+Dorcas Ukachi,7032,29,N,No,Yes,2023-06-17,23,89.85,1.970044555,115,23,Y,N,N,Y,Y,Y,Positive,Positive,Positive,10.5,N,Y,Y,Y,N,Y,td1td2,Fetal Anomalies or Birth Defects,Y,N
+Felicia Ukachi,3145,17,N,Yes,No,2023-03-24,35,78,1.298744652,110,35,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,N,Y,Y,Y,td1td2,"Infections (e.g., Urinary Tract Infections, Bacterial Vaginosis)",Y,N
+Ifeoma Ukachi,2071,17,N,Yes,No,2023-03-03,38,81.94,1.306345354,111,38,Y,N,N,Y,Y,Y,Treated,Positive,Refer,11,N,Y,N,Y,Y,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,Y
+Juliana Ukachi,9641,29,N,No,Yes,2023-09-02,12,80.87,1.351592877,108,12,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,Y,Y,N,Y,td1td2,Antepartum Hemorrhage,Y,N
+Nkiru Ukachi,1655,14,N,Yes,No,2023-07-21,18,72.91,1.871841759,123,18,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,Hyperemesis Gravidarum,Y,N
+Nneka Ukachi,6966,25,N,No,Yes,2023-04-14,32,70.48,1.498666439,118,32,Y,N,N,Y,Y,Y,Negative,Positive,Negative,11,N,Y,Y,N,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Peace Ukachi,3849,25,N,Yes,No,2023-10-23,5,84.07,1.927211378,116,5,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,N,N,Y,Y,td1,Intrauterine Growth Restriction (IUGR),Y,N
+Priscilla Ukachi,1579,17,N,Yes,No,2023-04-02,34,79.68,1.368396431,100,34,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Amarachi Ukachi,5481,51,N,No,Yes,2023-07-08,20,71.86,1.818540546,137,20,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,N,Y,Y,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Beauty Ukachi,9422,15,N,No,Yes,2023-08-19,14,73.33,1.600961599,124,14,Y,N,N,Y,Y,Y,Positive,Positive,Negative,10.5,N,Y,Y,Y,N,Y,td1td2,Gestational Diabetes,Y,N
+Chinasa Ukachi,1066,26,N,Yes,No,2023-08-14,15,76.54,1.159736596,119,15,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Recurrent Miscarriage,Y,N
+Chinwe Ukachi,1220,30,N,Yes,No,2023-03-13,37,80.09,1.831532374,108,37,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,N,Y,Y,td1td2,Oligohydramnios,Y,Y
+Dorcas Ukachi,6717,50,N,Yes,No,2023-09-03,12,74.68,1.268619358,123,12,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,N,N,Y,Y,td1td2,Postpartum Depression,Y,N
+Felicia Ukachi,3560,29,N,Yes,No,2023-03-26,35,74.07,1.089039241,109,35,Y,N,N,Y,Y,Y,Treated,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Ifeoma Ukachi,9388,37,N,No,Yes,2023-05-22,27,76.77,1.014956282,95,27,Y,N,N,Y,Y,Y,Positive,Refer,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Uterine Rupture,Y,N
+Juliana Ukachi,5868,33,N,Yes,No,2023-04-24,31,72.75,1.750001297,102,31,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,N,N,Y,Y,td1td2,Amniotic Fluid Embolism,Y,N
+Nkiru Ukachi,1431,28,N,No,Yes,2023-04-08,33,81.24,1.906426105,134,33,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,N,Y,Y,Y,td1td2,Gestational Hypertension,Y,N
+Nneka Ukachi,4270,37,N,No,Yes,2023-04-18,32,71.32,1.216620254,137,32,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,Y,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Peace Ukachi,9344,49,N,No,Yes,2023-09-13,11,88.7,1.564477185,102,11,Y,N,N,Y,Y,Y,Treated,Negative,Negative,11,N,Y,Y,Y,N,Y,td1td2,Thrombocytopenia,Y,N
+Priscilla Ukachi,8897,45,N,Yes,No,2023-06-28,22,71.36,1.986794482,98,22,Y,N,N,Y,Y,Y,Negative,Positive,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Fetal Distress,Y,N
+Amara Ukachi,7809,45,N,Yes,No,2023-08-18,14,83.59,1.233890597,133,14,Y,N,N,Y,Y,Y,Positive,Negative,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Preterm Labor,Y,N
+Beauty Ukachi,2841,48,N,Yes,No,2023-10-25,5,81.88,1.642761672,113,5,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,N,N,Y,Y,td1,Gestational Hypertension,Y,N
+Chinasa Ukachi,6334,22,N,Yes,No,2023-04-02,34,80.64,1.646977799,132,34,Y,N,N,Y,Y,Y,Positive,Refer,Positive,11,N,Y,N,N,Y,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Chinwe Ukachi,1343,20,N,No,Yes,2023-10-24,5,84.03,1.522038547,99,5,Y,N,N,Y,Y,Y,Positive,Negative,Positive,11,N,Y,N,Y,Y,Y,td1,Fetal Anomalies or Birth Defects,Y,N
+Dorcas Ukachi,7210,34,N,No,Yes,2023-04-23,31,75.17,1.023322306,91,31,Y,N,N,Y,Y,Y,Positive,Negative,Negative,11,N,Y,N,Y,Y,Y,td1td2,Prolonged Labor,Y,N
+Felicia Ukachi,3732,49,N,No,Yes,2023-05-12,28,70.05,1.069763049,105,28,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,"Intrauterine Infections (e.g., Group B Streptococcus)",Y,N
+Ifeoma Ukachi,1034,19,N,No,Yes,2023-08-11,15,74.4,1.366618689,129,15,Y,N,N,Y,Y,Y,Treated,Refer,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,Preeclampsia,Y,N
+Juliana Ukachi,9490,48,N,Yes,No,2023-06-01,26,76,1.873456839,136,26,Y,N,N,Y,Y,Y,Positive,Negative,Positive,10.5,N,Y,N,Y,Y,Y,td1td2,Cervical Cancer or Precancerous Conditions,Y,N
+Nkiru Ukachi,9726,45,N,No,Yes,2023-10-27,4,79.2,1.005705827,107,4,Y,N,N,Y,Y,Y,Negative,Negative,Negative,11,N,Y,Y,Y,N,Y,td1,Neonatal Jaundice,Y,N
+Nneka Ukachi,1446,32,N,Yes,No,2023-09-10,11,84.45,1.388874588,107,11,Y,N,N,Y,Y,Y,Negative,Positive,Negative,11,N,Y,Y,Y,N,Y,td1td2,Gestational Trophoblastic Neoplasia,Y,N
+Peace Ukachi,5328,34,N,Yes,No,2023-04-19,32,71.16,1.976072934,102,32,Y,N,N,Y,Y,Y,Treated,Positive,Negative,11,N,Y,Y,N,Y,Y,td1td2,Fetal Growth Restriction,Y,N
+Priscilla Ukachi,7781,37,N,Yes,No,2023-09-04,12,72.28,1.365419051,90,12,Y,N,N,Y,Y,Y,Treated,Positive,Positive,11,N,Y,Y,N,Y,Y,td1td2,"Maternal Infections (e.g., Zika virus, Toxoplasmosis)",Y,N
+Amarachi Ukachi,3390,41,N,Yes,No,2023-08-16,15,84.46,1.731244151,132,15,Y,N,N,Y,Y,Y,Negative,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Placental Abruption,Y,N
+Beauty Ukachi,3018,44,N,No,Yes,2023-10-04,8,86.03,1.377032837,137,8,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,N,Y,Y,Y,td1,Obstetric Fistula,Y,N
+Chinasa Ukachi,9832,37,N,Yes,No,2023-04-08,33,78.3,1.04327335,126,33,Y,N,N,Y,Y,Y,Positive,Refer,Negative,11,N,Y,N,N,Y,Y,td1td2,Drug or Substance Abuse,Y,N
+Chinwe Ukachi,1714,37,N,No,Yes,2023-04-14,32,87.78,1.97860693,113,32,Y,N,N,Y,Y,Y,Positive,Positive,Negative,11,N,Y,Y,N,Y,Y,td1td2,Chorioamnionitis,Y,N
+Dorcas Ukachi,5097,21,N,Yes,No,2023-06-25,22,79.96,1.277578153,117,22,Y,N,N,Y,Y,Y,Negative,Negative,Positive,10.5,N,Y,Y,N,Y,Y,td1td2,Postpartum Hemorrhage,Y,N
+Felicia Ukachi,7439,29,N,No,Yes,2023-07-19,19,87.73,1.902295814,130,19,Y,N,N,Y,Y,Y,Positive,Refer,Positive,10.5,N,Y,N,N,Y,Y,td1td2,Recurrent Miscarriage,Y,N
+Ifeoma Ukachi,5283,23,N,Yes,No,2023-07-04,21,75.54,1.816406478,93,21,Y,N,N,Y,Y,Y,Negative,Refer,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Severe Vomiting and Hyperemesis,Y,N
+Juliana Ukachi,6353,24,N,No,Yes,2023-10-10,7,83.87,1.892704356,130,7,Y,N,N,Y,Y,Y,Positive,Negative,Refer,11,N,Y,Y,Y,N,Y,td1,Diabetes Mellitus,Y,N
+Nkiru Ukachi,1350,26,N,No,Yes,2023-09-18,10,89.62,1.649570216,129,10,Y,N,N,Y,Y,Y,Negative,Negative,Refer,11,N,Y,N,Y,Y,Y,td1td2,Umbilical Cord Abnormalities,Y,N
+Nneka Ukachi,3908,14,N,No,Yes,2023-07-03,21,87.56,1.258241926,95,21,Y,N,N,Y,Y,Y,Negative,Negative,Negative,10.5,N,Y,N,N,Y,Y,td1td2,Eclampsia,Y,N
+Peace Ukachi,5462,48,N,Yes,No,2023-08-26,13,85.25,1.294965297,111,13,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,Y,N,Y,Y,td1td2,Antepartum Hemorrhage,Y,N
+Priscilla Ukachi,1716,29,N,No,Yes,2023-06-08,25,71.46,1.262668041,117,25,Y,N,N,Y,Y,Y,Negative,Negative,Refer,10.5,N,Y,Y,Y,N,Y,td1td2,Urinary Tract Infection (UTI),Y,N
+Amara Ukachi,2195,22,N,Yes,No,2023-05-04,30,76.62,1.190716163,113,30,Y,N,N,Y,Y,Y,Treated,Refer,Negative,11,N,Y,N,Y,Y,Y,td1td2,"Cardiac Conditions in Pregnancy (e.g., Congenital Heart Disease)",Y,N
+Beauty Ukachi,2177,35,N,Yes,No,2023-04-16,32,84.77,1.081821448,110,32,Y,N,N,Y,Y,Y,Treated,Negative,Refer,11,N,Y,Y,Y,N,Y,td1td2,Fetal Macrosomia,Y,N
+Chinasa Ukachi,1783,51,N,Yes,No,2023-06-07,25,78.41,1.453055978,136,25,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,Y,N,Y,Y,td1td2,Chronic Hypertension in Pregnancy,Y,N
+Chinwe Ukachi,1003,46,N,Yes,No,2023-09-07,12,80.09,1.244557578,121,12,Y,N,N,Y,Y,Y,Negative,Refer,Refer,11,N,Y,Y,N,Y,Y,td1td2,Postpartum Depression,Y,N
+Dorcas Ukachi,5716,42,N,Yes,No,2023-03-17,36,73.49,1.26265639,135,36,Y,N,N,Y,Y,Y,Negative,Positive,Negative,11,N,Y,N,N,Y,Y,td1td2,Fetal Anomalies or Birth Defects,Y,Y
+Felicia Ukachi,8399,22,N,Yes,No,2023-07-07,20,71,1.975108289,140,20,Y,N,N,Y,Y,Y,Positive,Positive,Refer,10.5,N,Y,N,Y,Y,Y,td1td2,"Malpresentation (e.g., Breech Presentation)",Y,N
+Ifeoma Ukachi,1398,17,N,Yes,No,2023-09-12,11,79.68,1.706981865,97,11,Y,N,N,Y,Y,Y,Treated,Refer,Refer,11,N,Y,N,N,Y,Y,td1td2,"Multiple Gestation Complications (e.g., Twin-to-Twin Transfusion Syndrome)",Y,N
+Juliana Ukachi,5906,43,N,No,Yes,2023-04-22,31,82.4,1.231069802,138,31,Y,N,N,Y,Y,Y,Negative,Negative,Positive,11,N,Y,Y,N,Y,Y,td1td2,Oligohydramnios,Y,N
